@@ -1,0 +1,39 @@
+/* App.css */
+.App {
+  text-align: center;
+  background-color: orange; /* Background for the entire page */
+}
+
+header {
+  background-color: brown; /* Red background for the header */
+  padding: 1rem;
+  color: white;
+  margin-bottom: 2rem; /* Add margin to create space below the header */
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+.seats-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+
+button.selected {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.home-container {
+  padding: 20px;
+  margin-top: 2rem; /* Additional space between header and home page content */
+}
+
+input, button {
+  margin: 10px;
+  padding: 10px;
+}

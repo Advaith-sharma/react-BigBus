@@ -1,3 +1,7 @@
+# react-BigBus
+
+A website in progress that aims at providing appealing bus ticket booking and management services. Started as a project for Software Engineering.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
